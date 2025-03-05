@@ -1,0 +1,7 @@
+Year,State,Candidate,Party,Votes,Percentage
+2020,California,Joe Biden,Democratic,11110250,63.5
+2020,Texas,Donald Trump,Republican,5258126,52.1
+2020,Florida,Donald Trump,Republican,5668731,51.2
+2016,California,Hillary Clinton,Democratic,8753788,61.7
+2016,Texas,Donald Trump,Republican,4685047,52.2
+2016,Florida,Donald Trump,Republican,4617886,49.1
