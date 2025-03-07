@@ -1,0 +1,1001 @@
+name,sex,year,Birth Month,count,Height (cm),state,Country
+Olivia,Female,2011,6,2.77,51.2,Chicago,USA
+Charlotte,Female,2014,12,4.4,54.8,Phoenix,UK
+Benjamin,Female,2022,5,2.57,47.6,Houston,Australia
+Sophia,Male,2013,6,2.64,51.8,Los Angeles,UK
+Henry,Male,2016,2,4.32,51.3,New York,UK
+Oliver,Female,2020,5,3.14,47.8,San Antonio,Canada
+Olivia,Female,2020,6,3.52,52.4,New York,Australia
+Noah,Male,2012,3,3.05,46.3,New York,Australia
+Liam,Female,2014,4,4.36,48.5,New York,USA
+Emma,Male,2022,5,2.69,52.5,San Diego,UK
+Mia,Male,2020,6,3.69,54.3,New York,Canada
+Harper,Female,2011,3,4.18,48.4,Phoenix,Australia
+Evelyn,Female,2023,12,3.39,46.7,San Diego,Australia
+Elijah,Female,2023,7,2.59,49.8,Chicago,UK
+Elijah,Male,2013,7,3.84,53.2,Philadelphia,UK
+Benjamin,Female,2023,9,2.67,48.0,Philadelphia,Australia
+Mia,Male,2018,3,3.6,49.1,New York,USA
+Emma,Female,2018,9,3.7,50.8,Philadelphia,Australia
+Amelia,Female,2023,7,2.88,51.2,Chicago,Canada
+Alexander,Female,2022,5,2.88,51.9,Houston,Australia
+Ava,Male,2013,6,3.35,49.9,San Antonio,Canada
+Charlotte,Female,2020,6,2.82,53.6,Houston,Canada
+Isabella,Female,2013,2,3.64,47.0,San Diego,UK
+Amelia,Male,2014,1,2.66,52.7,New York,Canada
+Evelyn,Female,2021,10,4.36,53.9,San Diego,UK
+James,Female,2020,9,4.42,51.3,San Antonio,USA
+Emma,Male,2019,10,4.38,46.6,San Antonio,USA
+Benjamin,Female,2014,10,2.75,50.8,San Diego,Canada
+Lucas,Male,2020,9,4.06,45.6,Los Angeles,Australia
+Sophia,Female,2019,12,3.88,53.6,Chicago,UK
+James,Male,2015,7,3.57,48.6,Houston,USA
+James,Female,2013,2,3.0,54.7,New York,UK
+Liam,Female,2020,3,3.35,49.0,San Diego,Canada
+Charlotte,Female,2020,8,2.5,54.1,Philadelphia,Australia
+Lucas,Male,2018,10,3.46,51.8,Phoenix,UK
+Benjamin,Male,2010,10,4.37,49.7,San Diego,Canada
+Benjamin,Male,2020,10,2.77,49.7,San Diego,Canada
+Isabella,Female,2011,4,2.78,53.7,Chicago,USA
+James,Female,2013,6,4.39,48.7,Phoenix,Australia
+Liam,Male,2020,8,3.98,46.7,San Antonio,USA
+Henry,Male,2010,3,2.6,50.0,San Antonio,Australia
+Emma,Female,2023,2,2.83,47.7,San Antonio,UK
+Evelyn,Female,2015,8,4.04,48.4,Chicago,Australia
+Mia,Male,2016,11,3.6,50.1,Phoenix,UK
+Henry,Male,2021,8,3.98,49.1,Los Angeles,Canada
+Elijah,Female,2017,3,4.18,53.0,San Antonio,Canada
+Lucas,Male,2011,5,2.83,49.8,Houston,USA
+Mia,Female,2010,9,3.65,45.7,San Antonio,UK
+Henry,Male,2021,4,2.89,46.3,San Diego,USA
+Benjamin,Female,2023,1,2.86,53.2,Los Angeles,USA
+Mason,Male,2023,10,2.89,53.4,San Diego,USA
+Mia,Male,2014,11,3.16,45.7,Philadelphia,USA
+Oliver,Male,2010,3,2.51,48.3,Houston,Australia
+James,Female,2010,11,4.48,53.9,New York,USA
+Mia,Female,2021,2,4.1,53.4,Houston,Canada
+Mason,Male,2014,1,2.72,50.9,Chicago,USA
+Ava,Female,2016,4,3.03,52.5,Chicago,Australia
+Harper,Male,2010,3,3.36,52.5,New York,Australia
+Henry,Male,2014,2,3.59,49.8,San Diego,USA
+Noah,Male,2017,8,4.47,51.7,San Antonio,Canada
+Liam,Female,2020,7,3.86,51.5,San Diego,Australia
+Noah,Female,2016,10,3.18,48.6,Chicago,USA
+Liam,Female,2010,5,3.24,47.9,Houston,USA
+Lucas,Female,2021,9,2.9,53.4,New York,Canada
+Noah,Male,2010,2,3.82,45.7,San Antonio,UK
+Noah,Male,2013,1,3.99,48.5,San Diego,Canada
+Olivia,Female,2014,8,3.94,48.6,Houston,USA
+Amelia,Female,2023,11,3.88,46.4,Chicago,Canada
+Benjamin,Female,2013,8,2.88,47.0,Phoenix,Australia
+Alexander,Male,2011,5,3.26,49.8,Houston,USA
+Olivia,Male,2010,5,3.66,54.9,Houston,UK
+Amelia,Male,2013,6,2.92,54.4,Houston,UK
+Emma,Female,2011,5,4.03,54.8,Houston,UK
+Oliver,Male,2018,8,4.19,52.9,San Diego,Australia
+Charlotte,Male,2010,9,4.47,51.0,Philadelphia,UK
+Elijah,Female,2014,11,4.05,50.2,Houston,Canada
+Elijah,Male,2017,4,3.25,53.8,San Diego,Canada
+Mia,Female,2012,4,3.12,50.8,Houston,Canada
+Emma,Female,2022,4,4.12,50.2,Houston,UK
+Alexander,Female,2020,1,3.65,48.6,Philadelphia,UK
+Amelia,Male,2012,11,2.53,53.4,San Diego,Australia
+Sophia,Female,2020,1,3.6,46.1,Chicago,USA
+Mia,Male,2017,11,3.51,52.7,Houston,USA
+Harper,Male,2017,5,3.63,53.9,Phoenix,UK
+Mason,Female,2013,12,4.28,54.5,New York,Canada
+Henry,Female,2014,6,3.27,48.4,Houston,Australia
+Sophia,Female,2023,12,2.78,50.7,Houston,Australia
+Oliver,Female,2015,2,3.76,45.7,Philadelphia,USA
+Emma,Male,2019,1,4.31,47.6,New York,Australia
+Lucas,Female,2017,10,3.55,50.6,Phoenix,Australia
+Sophia,Male,2015,8,3.98,54.6,San Antonio,Canada
+Mia,Male,2023,6,3.56,47.8,Phoenix,USA
+James,Female,2016,1,3.96,47.6,Los Angeles,USA
+Charlotte,Female,2014,8,2.87,45.3,San Antonio,Canada
+Alexander,Male,2012,7,3.98,49.5,Philadelphia,Australia
+Alexander,Male,2019,11,3.51,51.8,San Diego,Australia
+Mason,Male,2015,10,3.88,54.8,Los Angeles,USA
+Lucas,Male,2020,11,4.15,52.1,Houston,Australia
+Mia,Female,2017,7,2.79,50.7,San Antonio,Australia
+Alexander,Female,2013,6,3.55,47.1,Philadelphia,Australia
+Mason,Male,2015,9,3.06,53.1,Chicago,UK
+Mason,Female,2012,10,3.2,54.0,San Antonio,USA
+Henry,Male,2012,5,3.56,52.4,Los Angeles,Canada
+Alexander,Female,2012,1,3.24,52.5,Chicago,UK
+Charlotte,Female,2017,12,2.73,50.5,Philadelphia,Canada
+Benjamin,Male,2012,3,3.84,52.7,Phoenix,Canada
+Isabella,Female,2021,5,3.76,47.2,Philadelphia,UK
+Evelyn,Male,2011,11,2.54,51.6,Philadelphia,Australia
+Oliver,Female,2016,8,2.96,48.8,Philadelphia,Canada
+James,Female,2015,3,4.37,50.4,Houston,UK
+Benjamin,Male,2012,12,3.59,52.0,Phoenix,USA
+Sophia,Female,2019,4,2.57,45.2,Philadelphia,USA
+Lucas,Male,2015,8,3.51,52.1,San Antonio,UK
+Evelyn,Female,2013,6,2.88,46.5,New York,UK
+Henry,Female,2020,3,4.03,46.8,Philadelphia,Canada
+Benjamin,Female,2023,7,3.2,51.9,Houston,Australia
+Mason,Female,2017,8,4.39,51.9,Phoenix,Australia
+Sophia,Female,2012,1,3.73,46.2,Los Angeles,Australia
+Mason,Male,2017,6,3.03,47.5,Phoenix,UK
+James,Female,2023,2,4.48,45.5,Chicago,Canada
+Liam,Female,2018,7,4.29,45.1,Los Angeles,Australia
+Amelia,Female,2015,2,2.84,46.4,Houston,USA
+Elijah,Female,2013,10,4.25,50.2,Houston,Canada
+Amelia,Female,2022,4,4.38,47.5,Philadelphia,Canada
+Charlotte,Female,2013,1,3.63,47.3,Houston,Canada
+Mason,Female,2014,12,3.23,53.0,Chicago,Canada
+Mia,Female,2018,2,2.81,53.1,Houston,USA
+Mason,Female,2014,10,3.36,50.4,New York,USA
+Mia,Male,2017,8,3.92,46.3,Chicago,Australia
+Alexander,Female,2015,12,2.93,46.9,San Antonio,USA
+Mia,Female,2016,7,3.51,50.6,Philadelphia,USA
+Oliver,Male,2023,4,3.33,46.7,New York,USA
+Olivia,Female,2023,3,3.72,49.5,San Antonio,USA
+Mason,Male,2017,4,2.86,50.2,New York,USA
+Elijah,Male,2011,11,4.38,50.0,Houston,UK
+Ava,Male,2023,5,3.19,47.7,San Diego,Canada
+James,Female,2017,1,3.94,45.9,Philadelphia,USA
+Mason,Male,2013,12,2.92,49.5,Philadelphia,UK
+Harper,Male,2016,2,4.19,54.8,Chicago,USA
+Elijah,Female,2021,8,4.23,52.0,New York,Canada
+Ava,Female,2017,11,2.6,49.3,Philadelphia,UK
+James,Male,2015,4,3.37,51.8,New York,USA
+Emma,Female,2013,6,4.46,54.9,Chicago,Australia
+Liam,Female,2016,10,2.82,51.3,Los Angeles,Australia
+Oliver,Male,2014,4,4.32,47.2,Philadelphia,Australia
+Ava,Female,2010,3,3.86,49.1,Philadelphia,UK
+Isabella,Male,2022,2,4.01,53.1,San Antonio,Canada
+Alexander,Male,2013,4,4.4,45.2,Houston,Australia
+Henry,Male,2017,3,3.28,49.4,San Antonio,UK
+Oliver,Male,2019,7,4.5,54.1,Philadelphia,UK
+Henry,Male,2010,10,3.88,47.0,San Antonio,USA
+Ava,Female,2011,3,4.35,47.4,Phoenix,Canada
+James,Male,2017,11,3.11,53.1,New York,Canada
+Emma,Female,2018,1,4.44,45.6,Philadelphia,USA
+Henry,Female,2011,11,3.43,53.9,San Antonio,UK
+Lucas,Male,2022,6,3.91,48.3,San Antonio,Canada
+Charlotte,Male,2013,4,3.89,48.9,New York,Canada
+Emma,Female,2014,1,2.52,46.7,Phoenix,Australia
+Liam,Female,2019,4,4.33,53.9,Los Angeles,Canada
+Sophia,Male,2017,8,3.94,53.0,Houston,UK
+Henry,Male,2016,1,3.74,52.4,Philadelphia,UK
+Amelia,Female,2022,6,4.32,48.7,New York,Canada
+Alexander,Female,2016,9,4.24,46.4,Houston,Canada
+Mia,Male,2010,9,2.93,47.4,San Antonio,Australia
+Mason,Male,2021,1,3.77,46.9,San Antonio,UK
+Elijah,Male,2017,11,4.02,49.2,Chicago,UK
+Mia,Male,2012,6,2.62,50.7,Phoenix,UK
+Elijah,Female,2022,1,3.29,53.2,New York,Canada
+Mia,Male,2016,3,4.35,52.4,Chicago,Australia
+Liam,Female,2014,3,2.76,49.1,San Diego,Australia
+Amelia,Female,2011,8,4.46,46.9,Phoenix,USA
+Evelyn,Male,2011,10,3.81,46.1,Houston,USA
+Noah,Female,2011,3,3.67,48.8,Phoenix,Australia
+Henry,Female,2012,8,3.17,47.5,New York,Australia
+Mason,Female,2010,5,2.96,54.0,San Diego,UK
+Isabella,Male,2020,2,3.41,50.0,San Diego,USA
+Amelia,Male,2020,5,4.17,45.4,Los Angeles,Australia
+Sophia,Male,2011,7,4.42,48.8,San Diego,Canada
+Sophia,Female,2011,11,3.57,46.0,Houston,Australia
+Sophia,Male,2011,8,2.9,47.1,Phoenix,Canada
+Henry,Male,2023,9,4.12,54.3,Los Angeles,Canada
+Ava,Female,2011,8,3.34,54.7,San Diego,UK
+Ava,Female,2016,10,3.59,46.7,San Antonio,Australia
+Noah,Female,2023,4,2.93,45.9,San Antonio,UK
+Harper,Male,2016,6,3.13,54.6,Phoenix,UK
+Amelia,Male,2012,11,4.24,50.3,San Diego,Australia
+James,Female,2013,4,4.38,46.9,Los Angeles,Canada
+Liam,Female,2011,6,3.15,48.7,Houston,Australia
+Emma,Male,2012,7,3.31,45.5,Chicago,Australia
+Lucas,Male,2014,6,3.1,49.1,Philadelphia,USA
+Olivia,Male,2023,7,2.57,54.7,Phoenix,Canada
+Mia,Male,2017,8,3.62,48.9,Houston,USA
+Benjamin,Male,2019,8,3.24,51.9,Chicago,USA
+Mason,Male,2022,2,3.07,45.8,San Diego,USA
+Olivia,Female,2011,7,3.55,48.0,Houston,USA
+Amelia,Male,2015,7,3.02,48.0,Philadelphia,Canada
+Alexander,Female,2017,10,4.35,48.1,San Antonio,Australia
+Evelyn,Female,2019,7,2.64,46.5,San Diego,Canada
+Isabella,Female,2012,8,3.64,53.1,New York,UK
+Mason,Female,2019,10,2.69,51.4,New York,Canada
+Benjamin,Female,2020,3,3.68,53.8,San Diego,Canada
+Isabella,Female,2015,3,3.23,55.0,New York,Australia
+Isabella,Female,2012,3,2.93,48.0,Chicago,UK
+Mason,Female,2022,7,2.53,45.4,Houston,Australia
+Oliver,Male,2021,12,3.79,47.1,Philadelphia,Australia
+James,Male,2011,4,4.32,47.7,San Diego,USA
+Benjamin,Male,2023,9,4.04,45.5,Houston,UK
+Elijah,Male,2013,4,2.95,53.1,San Antonio,USA
+Olivia,Female,2017,4,3.47,49.5,Chicago,Canada
+Amelia,Female,2013,7,3.43,53.8,Chicago,Australia
+Liam,Male,2017,7,4.49,47.8,Houston,UK
+Noah,Male,2016,1,3.97,51.6,Los Angeles,Australia
+Charlotte,Female,2020,4,2.83,53.4,New York,UK
+Alexander,Female,2023,11,3.53,48.5,Philadelphia,Australia
+Ava,Male,2022,11,2.84,49.0,San Antonio,Australia
+Mia,Female,2018,5,3.94,50.1,Chicago,Australia
+Henry,Female,2021,4,3.83,49.6,Chicago,Canada
+Oliver,Male,2022,3,3.92,49.9,Chicago,Australia
+James,Male,2015,6,3.81,45.1,Philadelphia,UK
+Elijah,Female,2017,3,3.14,51.9,Philadelphia,UK
+Liam,Female,2022,3,3.59,45.4,Phoenix,UK
+Alexander,Male,2010,9,3.18,54.8,Los Angeles,Australia
+Evelyn,Female,2023,6,3.2,52.8,Phoenix,USA
+James,Female,2015,5,3.32,53.3,Philadelphia,Canada
+Liam,Female,2016,12,3.57,50.9,New York,UK
+Harper,Male,2014,9,2.97,54.5,Phoenix,Australia
+James,Male,2013,2,3.43,45.3,Philadelphia,Australia
+Amelia,Female,2021,7,3.6,53.3,San Diego,USA
+Noah,Female,2011,6,3.97,50.0,New York,UK
+Henry,Female,2013,2,2.84,47.4,Phoenix,Australia
+Ava,Male,2017,3,2.93,49.2,San Antonio,USA
+Ava,Male,2013,2,3.96,52.3,Houston,Canada
+Henry,Female,2017,7,3.07,53.4,San Antonio,USA
+Mason,Female,2020,10,3.32,54.5,New York,Australia
+Emma,Male,2013,2,4.02,45.8,Los Angeles,Canada
+Amelia,Female,2015,3,4.38,54.5,San Diego,UK
+Sophia,Female,2010,5,3.98,49.6,Phoenix,UK
+Sophia,Female,2022,5,4.16,52.6,Chicago,USA
+Emma,Male,2021,4,3.59,50.3,Chicago,USA
+Harper,Female,2017,7,4.41,48.3,Chicago,Australia
+Henry,Male,2020,1,2.61,54.8,New York,USA
+Ava,Female,2021,5,2.6,47.3,Chicago,Canada
+Lucas,Female,2019,11,3.62,48.7,San Antonio,Canada
+Mason,Male,2016,8,3.33,46.7,San Diego,Australia
+Amelia,Male,2010,2,3.99,48.5,Phoenix,Australia
+Emma,Male,2013,8,3.01,45.4,San Diego,Australia
+Elijah,Male,2017,1,3.47,47.1,New York,Canada
+Noah,Female,2021,12,3.41,51.0,Houston,Canada
+Lucas,Male,2019,11,3.4,47.4,San Diego,UK
+Mia,Female,2018,3,2.83,46.0,New York,Canada
+Harper,Female,2012,1,2.78,48.5,Phoenix,Australia
+Liam,Female,2022,7,3.87,46.3,Chicago,USA
+James,Male,2019,8,3.39,50.0,San Diego,Canada
+Noah,Male,2010,4,2.97,53.8,Philadelphia,Canada
+Charlotte,Female,2010,1,3.34,51.5,Phoenix,UK
+Alexander,Female,2017,5,4.09,45.8,Los Angeles,UK
+Ava,Male,2017,8,3.11,45.1,San Antonio,Canada
+Sophia,Male,2010,9,3.35,46.5,Phoenix,Canada
+Lucas,Male,2016,2,4.15,49.5,Philadelphia,Canada
+Elijah,Male,2019,6,3.34,53.6,Houston,UK
+Charlotte,Female,2023,9,2.83,53.9,Phoenix,UK
+Olivia,Male,2015,10,4.18,52.0,Los Angeles,Australia
+Ava,Female,2023,12,4.44,49.5,San Diego,Australia
+Emma,Male,2015,4,3.44,50.4,Phoenix,Australia
+Amelia,Male,2011,2,3.62,49.6,New York,UK
+James,Male,2023,9,3.86,49.8,Phoenix,Australia
+Sophia,Male,2017,11,3.79,51.6,Los Angeles,UK
+Charlotte,Female,2018,4,4.11,47.3,Los Angeles,USA
+Benjamin,Male,2020,6,4.38,49.8,New York,UK
+Alexander,Female,2011,11,4.37,49.7,Phoenix,Australia
+Sophia,Female,2019,1,4.2,49.8,Houston,Australia
+Liam,Female,2011,1,3.47,51.2,Phoenix,USA
+Oliver,Male,2019,1,3.54,50.7,New York,USA
+Olivia,Male,2020,12,4.47,52.9,Philadelphia,Australia
+Liam,Female,2016,7,3.07,46.9,Philadelphia,USA
+Mia,Male,2013,12,3.09,50.7,Houston,USA
+James,Female,2019,7,4.05,54.5,Houston,Australia
+James,Female,2012,8,4.34,47.1,San Antonio,USA
+Ava,Female,2013,12,2.91,51.4,Los Angeles,USA
+Lucas,Female,2012,11,3.25,45.5,Phoenix,USA
+Harper,Female,2016,5,3.79,45.8,Los Angeles,UK
+Amelia,Female,2011,6,3.63,50.3,San Diego,Canada
+Oliver,Male,2012,4,4.3,49.9,Chicago,USA
+Liam,Male,2021,2,4.28,50.4,Chicago,USA
+James,Female,2023,1,2.76,45.1,San Antonio,USA
+Liam,Female,2021,10,3.71,50.6,Phoenix,USA
+Oliver,Male,2010,5,3.38,52.5,Houston,Australia
+Mia,Male,2020,7,3.77,46.4,Phoenix,Australia
+Harper,Male,2010,11,3.07,52.9,Los Angeles,USA
+Emma,Male,2013,4,3.57,53.7,Phoenix,Canada
+Ava,Male,2018,9,3.9,51.8,Philadelphia,USA
+Evelyn,Female,2022,4,3.72,49.2,San Diego,Australia
+Sophia,Female,2012,9,2.98,53.5,San Antonio,Australia
+Mia,Female,2017,12,3.49,49.2,Philadelphia,USA
+Mason,Male,2016,1,3.14,46.2,Chicago,USA
+Alexander,Male,2022,4,3.89,49.7,New York,Australia
+Alexander,Male,2023,9,2.84,53.6,Philadelphia,Canada
+Olivia,Female,2016,1,3.23,53.6,Phoenix,Canada
+Amelia,Female,2022,3,4.34,51.4,Chicago,USA
+Sophia,Male,2017,8,4.05,54.4,Los Angeles,Australia
+Liam,Male,2011,12,2.56,52.4,San Antonio,UK
+Noah,Female,2018,5,2.75,50.9,San Antonio,Canada
+Olivia,Male,2022,9,2.8,52.9,Philadelphia,USA
+Mason,Female,2016,11,2.98,52.9,Philadelphia,Australia
+Lucas,Female,2015,8,4.46,47.8,Phoenix,UK
+Olivia,Male,2019,5,2.96,50.9,Philadelphia,Australia
+Emma,Female,2020,6,3.87,53.7,Phoenix,Australia
+Isabella,Female,2020,1,3.02,46.3,Phoenix,UK
+Isabella,Female,2016,4,3.39,49.9,Philadelphia,Australia
+Oliver,Female,2019,9,4.18,52.1,San Antonio,UK
+Lucas,Female,2021,2,3.62,48.5,Phoenix,Australia
+Harper,Male,2010,11,3.31,52.2,Phoenix,USA
+Evelyn,Male,2015,10,4.1,49.2,Phoenix,USA
+Emma,Female,2013,1,3.91,53.6,Phoenix,Canada
+Henry,Male,2018,1,4.47,48.0,Chicago,Australia
+Isabella,Male,2023,11,4.11,47.4,San Antonio,UK
+Harper,Female,2015,5,3.08,51.6,Houston,USA
+Benjamin,Male,2023,3,3.65,45.2,Houston,UK
+Mason,Female,2012,7,3.97,49.8,Houston,UK
+Sophia,Female,2014,11,3.0,45.4,Phoenix,Australia
+Lucas,Female,2011,8,4.0,52.8,San Diego,USA
+Lucas,Male,2017,8,2.54,53.4,Houston,USA
+Liam,Male,2021,4,3.19,48.9,San Diego,Australia
+Elijah,Female,2015,3,3.94,45.5,San Diego,USA
+Harper,Female,2011,2,4.38,54.3,Houston,Australia
+Liam,Male,2014,5,2.76,49.5,Chicago,Canada
+James,Male,2016,4,4.0,47.4,Philadelphia,USA
+Oliver,Male,2012,3,4.04,52.3,Philadelphia,USA
+Charlotte,Female,2011,6,3.04,54.7,Los Angeles,UK
+Benjamin,Male,2020,3,3.37,46.6,Phoenix,UK
+Lucas,Male,2015,5,4.21,46.8,Houston,Australia
+Liam,Female,2023,9,3.41,53.4,Philadelphia,Canada
+Emma,Female,2011,3,2.65,46.5,San Diego,USA
+Alexander,Female,2023,6,3.59,48.8,Los Angeles,UK
+Mason,Female,2011,7,2.77,50.0,San Antonio,UK
+Mason,Male,2014,4,2.91,53.9,Philadelphia,USA
+Mason,Male,2015,4,4.14,51.2,Chicago,UK
+Alexander,Female,2020,10,4.27,52.5,New York,Australia
+Charlotte,Female,2015,8,4.37,45.8,Houston,USA
+Liam,Female,2014,4,2.88,45.9,Chicago,UK
+Olivia,Male,2020,8,2.68,49.5,New York,Australia
+Harper,Female,2012,12,2.58,48.7,Los Angeles,USA
+Mason,Female,2017,4,4.18,54.7,Houston,Canada
+Charlotte,Male,2022,6,4.08,47.5,San Diego,USA
+Benjamin,Male,2011,4,4.13,52.1,Chicago,UK
+Oliver,Female,2010,2,3.13,47.8,San Antonio,USA
+Ava,Male,2021,8,4.09,47.5,Houston,USA
+Liam,Female,2010,6,3.79,51.2,New York,UK
+Liam,Female,2020,7,4.17,52.7,Phoenix,USA
+Sophia,Male,2011,4,3.51,46.1,Phoenix,Canada
+Elijah,Female,2023,11,3.79,52.6,Chicago,USA
+Ava,Female,2015,9,3.64,50.6,San Antonio,UK
+Noah,Female,2018,6,3.96,54.8,Los Angeles,Australia
+Sophia,Male,2014,5,4.4,49.5,Los Angeles,Australia
+Olivia,Female,2011,8,2.72,47.4,Philadelphia,Australia
+Isabella,Female,2018,7,3.87,50.1,San Diego,Canada
+Harper,Male,2015,10,3.31,47.0,San Diego,UK
+Mason,Female,2016,5,4.41,46.8,Chicago,UK
+Elijah,Male,2010,11,3.62,50.1,Philadelphia,Australia
+Lucas,Female,2018,6,2.55,47.4,Chicago,UK
+Harper,Male,2013,8,3.04,51.7,Philadelphia,UK
+Emma,Female,2010,3,4.38,47.7,Philadelphia,Australia
+Sophia,Male,2015,10,3.52,45.7,Chicago,Australia
+Evelyn,Male,2018,1,3.46,47.4,Phoenix,USA
+Sophia,Male,2017,2,3.08,48.2,New York,UK
+Noah,Female,2018,3,4.17,48.1,Houston,Australia
+Sophia,Female,2012,12,4.33,51.4,San Antonio,UK
+Harper,Male,2013,10,3.56,51.9,Houston,UK
+Noah,Male,2013,12,4.38,48.1,Los Angeles,Canada
+Lucas,Male,2011,11,2.67,52.6,San Diego,UK
+Ava,Male,2018,12,2.89,47.5,San Antonio,USA
+Alexander,Female,2012,5,3.13,54.4,Philadelphia,Australia
+Mason,Female,2015,2,3.93,52.7,Los Angeles,UK
+Ava,Female,2023,10,3.64,50.8,New York,USA
+Emma,Female,2015,10,3.94,54.5,Phoenix,Canada
+Emma,Female,2021,5,3.95,49.8,San Diego,Australia
+Ava,Female,2010,3,4.18,47.0,Philadelphia,Australia
+Elijah,Female,2011,6,3.98,51.0,Los Angeles,UK
+James,Male,2012,1,2.91,47.3,San Diego,Canada
+Henry,Male,2020,1,4.43,45.3,San Diego,UK
+Sophia,Male,2023,5,4.15,49.5,Los Angeles,Canada
+James,Female,2020,7,3.43,52.2,San Diego,UK
+Mason,Female,2015,7,2.6,49.6,New York,Australia
+Ava,Male,2022,10,3.15,49.4,New York,USA
+Charlotte,Male,2016,6,3.02,51.0,Houston,USA
+Sophia,Male,2013,12,3.66,50.2,Los Angeles,UK
+Liam,Male,2012,12,2.51,48.2,San Antonio,USA
+Mia,Male,2012,11,3.66,53.9,Los Angeles,UK
+Noah,Female,2011,9,3.44,50.2,Houston,Australia
+Mason,Female,2010,11,2.95,45.4,San Antonio,USA
+Amelia,Male,2014,9,4.01,46.4,San Diego,Canada
+Ava,Female,2015,3,4.09,47.1,Chicago,UK
+Sophia,Female,2016,1,3.54,48.8,Los Angeles,Australia
+Harper,Male,2010,7,2.79,49.0,Los Angeles,Australia
+Amelia,Female,2023,3,2.65,53.7,Philadelphia,Canada
+Ava,Male,2013,6,4.02,49.1,New York,Australia
+Alexander,Male,2015,6,3.45,47.2,Houston,USA
+Lucas,Male,2016,5,2.5,52.2,San Diego,USA
+Harper,Male,2016,11,3.3,51.9,Los Angeles,Canada
+Elijah,Female,2021,9,4.18,52.7,Philadelphia,Australia
+Emma,Female,2014,2,3.63,51.7,New York,Canada
+Evelyn,Male,2018,10,4.34,46.1,New York,UK
+Noah,Male,2017,10,2.53,52.5,Philadelphia,Australia
+Ava,Male,2018,10,3.18,51.0,Philadelphia,Australia
+Ava,Male,2012,2,3.81,46.0,Philadelphia,UK
+Amelia,Female,2014,1,3.84,48.3,New York,UK
+Ava,Male,2015,4,2.89,48.6,Los Angeles,UK
+Evelyn,Female,2014,7,3.93,52.9,Chicago,USA
+Mason,Female,2020,2,2.51,54.4,Phoenix,USA
+Isabella,Male,2021,10,3.41,46.4,Phoenix,Australia
+Sophia,Female,2021,4,3.92,53.4,Philadelphia,UK
+Amelia,Male,2015,8,3.18,51.9,New York,UK
+Henry,Female,2023,1,3.19,52.6,San Diego,UK
+Charlotte,Male,2016,5,4.49,55.0,San Diego,Canada
+Lucas,Female,2012,3,3.64,48.5,San Diego,USA
+Mason,Female,2021,2,3.02,47.0,Chicago,UK
+Liam,Female,2017,10,2.8,54.9,New York,USA
+Mason,Male,2011,9,4.34,52.1,Chicago,Australia
+Lucas,Male,2020,2,3.62,48.2,New York,USA
+Noah,Male,2013,11,2.54,49.2,Philadelphia,Canada
+Elijah,Male,2013,7,3.62,45.0,Los Angeles,USA
+Lucas,Female,2013,6,2.8,54.6,Los Angeles,UK
+Noah,Male,2019,11,2.91,48.3,Houston,USA
+Emma,Male,2023,9,3.03,52.5,Chicago,UK
+Henry,Male,2017,10,3.93,46.4,San Diego,Australia
+Mia,Male,2018,5,4.42,46.2,San Antonio,USA
+Harper,Male,2010,5,3.31,52.5,San Diego,Australia
+Emma,Female,2012,4,3.01,51.7,Philadelphia,UK
+Olivia,Female,2011,2,3.38,47.9,San Antonio,USA
+Elijah,Male,2017,2,3.48,53.3,Chicago,USA
+James,Female,2017,9,3.13,45.8,Chicago,Australia
+Emma,Female,2015,9,2.71,50.5,Los Angeles,Australia
+Henry,Male,2018,3,2.83,45.3,San Diego,USA
+Liam,Female,2021,9,3.34,47.4,Los Angeles,Canada
+Alexander,Male,2011,1,4.43,48.4,Los Angeles,Canada
+Harper,Female,2017,9,2.85,46.4,Chicago,UK
+Harper,Female,2020,2,2.67,53.8,Houston,Australia
+Lucas,Female,2023,12,4.04,45.9,Phoenix,USA
+Sophia,Male,2013,10,4.49,54.1,Phoenix,Australia
+Emma,Male,2019,12,3.81,46.8,New York,Australia
+Liam,Male,2023,5,3.66,48.1,New York,UK
+Evelyn,Female,2020,2,2.52,54.2,Phoenix,UK
+Sophia,Male,2010,7,3.5,46.4,Chicago,USA
+Liam,Male,2013,7,3.16,49.9,Los Angeles,USA
+Charlotte,Female,2023,3,3.1,53.5,San Antonio,Canada
+Isabella,Male,2014,5,3.46,47.4,Chicago,USA
+Evelyn,Female,2017,3,3.02,47.2,New York,UK
+Oliver,Male,2011,5,3.37,48.5,Philadelphia,USA
+Elijah,Female,2018,1,3.87,47.8,Phoenix,Australia
+Mia,Male,2021,12,4.24,54.6,San Diego,Canada
+Olivia,Female,2013,1,3.36,53.3,San Antonio,USA
+Sophia,Male,2021,3,4.19,49.6,New York,Australia
+Elijah,Male,2011,3,4.5,52.9,Los Angeles,UK
+Olivia,Male,2010,12,3.94,46.5,Los Angeles,UK
+Elijah,Male,2019,4,3.68,48.6,San Diego,Canada
+Elijah,Male,2010,4,3.86,51.7,San Diego,Australia
+Benjamin,Male,2014,11,3.21,51.4,Philadelphia,USA
+Alexander,Male,2014,4,4.18,48.5,Philadelphia,Australia
+Ava,Male,2023,5,4.41,54.3,Chicago,Australia
+Alexander,Female,2017,5,4.23,46.5,Philadelphia,Canada
+Alexander,Male,2013,4,3.61,45.7,Los Angeles,USA
+Charlotte,Male,2020,10,3.94,53.0,San Antonio,USA
+Benjamin,Male,2011,10,2.98,47.7,Phoenix,Australia
+James,Female,2018,1,4.16,49.7,Houston,USA
+Oliver,Male,2017,10,3.45,54.3,San Diego,USA
+Henry,Male,2019,12,2.53,47.9,Chicago,Australia
+Olivia,Male,2017,9,3.58,51.1,Los Angeles,Canada
+Mia,Female,2011,2,3.22,49.5,Phoenix,USA
+Alexander,Female,2018,3,3.18,53.0,Chicago,USA
+Mason,Female,2023,5,3.13,47.1,San Antonio,UK
+Charlotte,Male,2018,12,2.99,46.6,Philadelphia,USA
+Mason,Female,2021,5,3.79,54.3,Chicago,USA
+Mason,Female,2018,5,2.69,50.2,Los Angeles,Canada
+Mia,Female,2023,11,4.48,45.3,Phoenix,USA
+Liam,Male,2014,1,4.2,49.2,San Diego,UK
+Harper,Female,2015,12,3.35,53.2,Philadelphia,Australia
+Olivia,Female,2015,3,3.08,48.0,Los Angeles,UK
+Sophia,Male,2010,8,3.93,54.5,New York,UK
+Oliver,Female,2016,10,4.1,49.8,Phoenix,Canada
+Ava,Female,2020,6,2.97,51.8,Chicago,USA
+Ava,Female,2016,1,3.74,49.1,New York,Canada
+Charlotte,Female,2020,1,4.28,47.4,Los Angeles,Australia
+Elijah,Male,2015,8,3.34,46.1,San Antonio,Canada
+Isabella,Male,2022,11,3.28,46.1,Philadelphia,Australia
+Benjamin,Male,2022,3,4.13,46.4,Houston,Australia
+Henry,Male,2022,8,4.41,47.5,Chicago,Canada
+Ava,Male,2018,9,3.2,46.1,Houston,USA
+Charlotte,Female,2022,3,4.38,49.7,Philadelphia,Canada
+James,Male,2018,11,3.13,53.4,Chicago,Canada
+Elijah,Female,2018,3,2.93,51.1,San Diego,Canada
+Noah,Male,2017,11,2.99,52.2,Los Angeles,USA
+Oliver,Male,2020,1,4.03,54.8,Houston,Australia
+Oliver,Male,2013,1,2.97,52.3,Chicago,UK
+Benjamin,Female,2023,12,3.49,54.8,San Diego,UK
+Henry,Female,2015,8,3.44,53.1,Phoenix,UK
+Elijah,Female,2021,10,4.2,48.6,Phoenix,USA
+Oliver,Male,2017,3,3.2,45.1,New York,Australia
+Elijah,Male,2013,12,2.5,51.1,San Diego,UK
+Liam,Male,2019,4,2.77,48.4,Los Angeles,Canada
+Sophia,Male,2017,3,3.95,47.3,New York,Australia
+Elijah,Male,2015,8,4.38,47.2,Philadelphia,UK
+Noah,Male,2023,8,3.92,54.8,Chicago,Canada
+Liam,Female,2014,2,3.98,54.3,Los Angeles,Australia
+James,Female,2022,12,3.39,45.4,San Antonio,Australia
+James,Male,2011,11,4.12,53.2,Chicago,UK
+Mia,Female,2022,5,4.02,51.1,New York,Australia
+Oliver,Female,2013,11,3.89,54.4,Houston,UK
+Oliver,Female,2012,2,3.49,50.5,Phoenix,UK
+Charlotte,Male,2020,3,4.14,54.6,Los Angeles,Canada
+Elijah,Male,2013,12,3.31,48.7,Phoenix,USA
+Sophia,Male,2011,11,4.08,47.7,Houston,USA
+Ava,Female,2019,10,3.53,51.7,San Diego,UK
+Oliver,Female,2023,9,2.96,48.5,Houston,USA
+Alexander,Male,2018,10,4.26,52.3,San Antonio,USA
+Ava,Male,2018,1,4.19,51.7,Houston,UK
+Henry,Male,2016,9,2.74,46.3,Philadelphia,Canada
+Liam,Male,2019,4,4.24,53.3,Phoenix,Australia
+Evelyn,Female,2010,4,2.72,45.1,Philadelphia,UK
+Henry,Female,2015,6,4.14,47.5,Chicago,USA
+Olivia,Female,2014,8,4.43,46.3,Los Angeles,Canada
+Ava,Male,2015,1,2.64,46.1,San Antonio,Canada
+Emma,Male,2020,1,3.34,52.3,San Antonio,Australia
+Mason,Female,2010,7,3.17,53.5,Los Angeles,UK
+Oliver,Male,2022,10,3.4,53.0,Chicago,USA
+Mia,Female,2018,11,3.09,46.5,Chicago,Australia
+Elijah,Female,2023,3,3.22,52.8,Phoenix,UK
+Mia,Female,2021,12,4.26,47.4,San Antonio,USA
+Ava,Female,2013,7,2.93,49.6,Houston,USA
+Alexander,Male,2016,6,2.55,51.5,San Diego,UK
+Noah,Male,2018,3,3.94,51.7,San Diego,Canada
+Harper,Male,2013,9,3.03,46.5,Houston,Canada
+Mason,Male,2023,2,2.54,48.4,New York,Canada
+Lucas,Female,2022,6,3.67,48.7,Houston,Australia
+Amelia,Male,2015,9,4.41,48.6,Phoenix,USA
+Oliver,Male,2013,8,4.13,46.1,Philadelphia,Australia
+Emma,Male,2022,3,3.34,47.1,Houston,UK
+Henry,Female,2019,10,2.83,51.4,San Diego,UK
+Mason,Male,2022,7,2.68,49.8,Los Angeles,UK
+Amelia,Male,2016,10,4.29,54.8,Houston,Australia
+James,Female,2022,2,3.47,45.6,New York,UK
+Isabella,Female,2013,5,3.95,49.0,Chicago,USA
+Alexander,Male,2011,4,3.71,48.4,San Diego,Canada
+Henry,Male,2017,5,4.23,54.6,Philadelphia,Canada
+Elijah,Male,2014,10,3.87,50.4,Phoenix,UK
+Henry,Female,2023,7,3.46,51.4,Houston,Canada
+Mason,Female,2013,3,4.18,52.4,Phoenix,USA
+James,Female,2015,7,2.66,46.9,Houston,Australia
+Liam,Male,2013,3,2.51,45.3,Houston,UK
+Olivia,Male,2013,1,3.48,52.1,Philadelphia,Canada
+Mia,Male,2021,2,3.81,46.4,Philadelphia,USA
+Ava,Female,2010,8,2.64,52.2,San Diego,USA
+Oliver,Male,2017,6,4.02,46.8,Houston,Australia
+Ava,Male,2022,2,2.87,51.0,New York,Canada
+Ava,Female,2023,11,3.99,46.0,San Diego,UK
+Ava,Male,2011,10,4.29,49.7,Los Angeles,Canada
+Lucas,Male,2017,7,3.61,53.6,San Antonio,Australia
+Elijah,Male,2020,9,3.97,47.0,New York,Canada
+Harper,Female,2021,3,3.89,51.1,San Diego,Australia
+Emma,Male,2020,11,4.3,51.0,San Diego,Canada
+Oliver,Male,2014,9,3.82,50.6,San Diego,Australia
+Henry,Male,2012,9,4.48,49.4,Houston,UK
+Sophia,Female,2016,6,3.26,45.2,Phoenix,USA
+Mia,Male,2021,5,3.6,47.2,Chicago,USA
+Evelyn,Male,2021,10,4.26,53.1,San Antonio,USA
+Noah,Male,2011,5,2.54,52.6,New York,Canada
+Elijah,Female,2021,8,2.57,52.1,San Antonio,Australia
+Olivia,Female,2019,9,3.77,46.2,Houston,USA
+Charlotte,Male,2011,7,3.47,47.4,Houston,UK
+Mason,Female,2020,10,2.7,49.2,Chicago,Australia
+Henry,Female,2015,7,2.9,47.4,New York,UK
+Emma,Female,2013,10,3.46,52.0,Los Angeles,USA
+Mason,Female,2019,11,4.14,45.1,Houston,Australia
+Harper,Male,2021,5,3.9,50.8,Los Angeles,Australia
+Liam,Female,2014,7,4.19,47.3,Phoenix,USA
+Lucas,Female,2016,9,2.89,47.8,Phoenix,Australia
+Elijah,Male,2016,8,3.3,47.7,New York,USA
+Mason,Female,2015,9,4.34,46.2,New York,USA
+Benjamin,Male,2014,12,4.47,53.1,New York,Australia
+Lucas,Female,2020,9,2.93,52.0,San Diego,Australia
+Lucas,Male,2019,6,3.06,48.4,Houston,Australia
+Charlotte,Male,2019,2,3.6,51.0,Phoenix,Canada
+Harper,Female,2023,10,2.54,47.9,Phoenix,USA
+Lucas,Male,2014,8,2.86,45.8,Chicago,Australia
+Liam,Female,2022,10,3.59,54.9,Philadelphia,Australia
+Evelyn,Male,2023,5,2.8,53.2,San Diego,Canada
+Evelyn,Female,2016,10,4.38,51.1,Chicago,Australia
+Elijah,Female,2013,5,4.26,51.2,Los Angeles,UK
+Isabella,Female,2023,3,3.43,45.5,Houston,Canada
+Amelia,Male,2023,11,4.39,51.5,Chicago,USA
+Oliver,Female,2013,6,4.36,45.1,Los Angeles,USA
+Mia,Male,2013,8,3.68,47.8,San Antonio,UK
+Mia,Male,2015,4,2.91,46.1,San Diego,UK
+Henry,Male,2019,12,3.49,53.6,San Diego,Australia
+Charlotte,Male,2016,3,3.37,50.8,Phoenix,Australia
+James,Male,2011,10,3.88,53.8,Chicago,Australia
+Henry,Female,2014,10,3.85,51.1,Chicago,Canada
+Ava,Female,2019,11,3.78,48.4,Los Angeles,USA
+Isabella,Male,2012,2,3.66,49.1,New York,Australia
+Lucas,Female,2015,1,3.13,45.2,Los Angeles,UK
+Emma,Male,2015,5,3.81,54.3,Phoenix,USA
+Olivia,Female,2011,4,2.68,51.4,Philadelphia,Canada
+James,Male,2012,5,3.5,52.3,Los Angeles,UK
+Olivia,Female,2013,5,3.28,48.4,Phoenix,USA
+Amelia,Female,2013,10,4.23,51.5,Phoenix,UK
+Harper,Male,2017,9,2.95,52.2,Los Angeles,Australia
+Amelia,Female,2020,2,2.51,48.5,San Diego,Australia
+Elijah,Male,2017,3,2.67,49.5,Phoenix,Australia
+Charlotte,Male,2023,4,3.98,52.0,Houston,UK
+Noah,Male,2022,8,2.53,46.2,Houston,Canada
+Noah,Male,2021,9,3.69,54.5,San Antonio,Canada
+Henry,Male,2014,10,4.42,51.7,San Diego,Canada
+Evelyn,Male,2010,6,4.47,54.3,Chicago,Canada
+Henry,Male,2014,6,4.32,51.9,Phoenix,USA
+Elijah,Male,2015,3,3.88,46.8,Philadelphia,UK
+Oliver,Female,2021,11,2.53,53.8,Houston,USA
+Amelia,Female,2010,12,4.17,50.2,Chicago,UK
+Olivia,Female,2014,11,4.01,49.2,San Antonio,Australia
+Mia,Female,2012,3,2.68,53.7,San Diego,Australia
+Sophia,Female,2015,11,2.91,47.3,San Antonio,UK
+Oliver,Female,2018,1,3.67,46.0,Los Angeles,Canada
+Olivia,Male,2022,12,2.66,52.0,San Antonio,UK
+Noah,Male,2019,4,3.72,45.4,San Diego,USA
+Noah,Male,2011,5,3.63,51.3,Phoenix,Canada
+Alexander,Female,2012,7,2.54,46.6,New York,Canada
+Olivia,Female,2017,7,3.69,49.5,Philadelphia,Australia
+James,Male,2019,3,3.29,53.7,Philadelphia,USA
+Isabella,Male,2010,10,3.99,50.8,San Diego,USA
+Benjamin,Female,2014,11,3.04,47.8,Chicago,UK
+Sophia,Male,2016,5,3.95,51.2,Houston,UK
+James,Female,2012,3,3.61,54.8,San Antonio,Canada
+Benjamin,Female,2013,12,4.01,52.3,Chicago,Australia
+Mia,Female,2020,12,3.09,52.2,San Diego,Australia
+Oliver,Female,2010,5,4.35,51.5,Phoenix,UK
+Benjamin,Male,2017,5,4.1,50.4,Phoenix,Australia
+Noah,Female,2021,3,2.71,52.2,Philadelphia,USA
+Charlotte,Female,2013,11,3.07,54.1,Houston,USA
+Isabella,Male,2021,6,3.42,51.1,Phoenix,USA
+Alexander,Female,2020,4,4.11,49.5,New York,Canada
+Liam,Female,2014,5,4.06,52.2,Philadelphia,USA
+Benjamin,Female,2016,6,2.85,45.4,New York,USA
+James,Male,2012,9,2.99,52.9,Los Angeles,UK
+Lucas,Female,2018,4,3.5,47.0,Phoenix,UK
+Isabella,Female,2011,2,4.28,53.3,Los Angeles,UK
+Evelyn,Female,2011,2,3.99,49.4,New York,Canada
+Mason,Male,2014,7,4.39,52.1,Houston,Australia
+Benjamin,Male,2023,6,4.49,46.1,Chicago,Australia
+Emma,Male,2015,9,4.23,51.3,San Antonio,USA
+Henry,Female,2019,3,3.7,49.4,San Diego,Canada
+Sophia,Male,2011,3,2.59,52.8,Houston,USA
+Lucas,Female,2022,2,4.13,53.1,Chicago,USA
+Elijah,Male,2022,2,4.48,52.2,Houston,UK
+Mia,Female,2012,8,3.99,49.9,San Antonio,Canada
+Harper,Female,2023,7,3.88,48.1,New York,Australia
+Amelia,Male,2017,6,4.02,47.4,Phoenix,Canada
+Isabella,Male,2016,6,4.27,49.8,New York,Australia
+Sophia,Male,2012,3,2.81,53.8,San Diego,UK
+Henry,Male,2021,3,3.09,52.2,Chicago,USA
+Emma,Female,2012,11,2.65,54.5,Philadelphia,USA
+Mia,Male,2016,1,4.37,49.4,Los Angeles,USA
+Charlotte,Male,2021,7,3.71,45.3,Houston,USA
+James,Female,2018,4,3.79,45.9,New York,Australia
+Mia,Female,2022,7,4.33,47.8,Phoenix,UK
+Liam,Female,2016,4,3.19,50.1,Phoenix,Canada
+Emma,Male,2011,9,4.46,48.4,San Antonio,Canada
+Liam,Male,2015,6,3.75,49.9,Philadelphia,Canada
+Alexander,Female,2021,1,3.67,54.7,Chicago,Australia
+Charlotte,Male,2017,11,4.14,52.6,San Diego,Canada
+Amelia,Male,2017,5,3.78,54.2,Houston,Australia
+Benjamin,Male,2012,10,3.02,49.0,Philadelphia,USA
+Ava,Male,2018,3,3.14,50.6,Houston,UK
+James,Female,2017,10,4.01,47.0,San Antonio,UK
+James,Female,2012,3,3.21,52.4,Los Angeles,USA
+Emma,Female,2020,9,4.13,48.9,Los Angeles,UK
+Henry,Female,2014,12,4.08,49.1,San Antonio,UK
+Harper,Female,2018,10,4.46,54.1,Los Angeles,USA
+Evelyn,Female,2012,12,4.48,50.1,Los Angeles,USA
+Emma,Male,2023,10,3.75,51.6,Phoenix,Australia
+Sophia,Male,2012,5,3.24,48.1,Los Angeles,UK
+Oliver,Male,2011,12,3.47,52.4,Chicago,Australia
+Olivia,Male,2023,6,3.19,46.3,New York,USA
+Liam,Male,2016,9,2.75,54.7,Chicago,USA
+James,Female,2017,9,4.16,45.4,New York,Canada
+Oliver,Male,2015,2,3.51,49.1,San Diego,USA
+Lucas,Male,2021,6,2.76,52.5,Philadelphia,Canada
+Liam,Male,2010,10,3.7,47.2,San Antonio,USA
+James,Female,2021,1,4.36,54.0,San Antonio,UK
+Ava,Male,2019,6,4.29,46.5,New York,Australia
+Benjamin,Female,2015,1,2.6,46.7,San Antonio,UK
+Lucas,Female,2022,8,4.23,46.2,Chicago,USA
+Sophia,Male,2010,3,2.93,48.8,Los Angeles,Canada
+Lucas,Male,2013,3,3.49,49.7,New York,Canada
+Evelyn,Female,2015,11,2.66,52.4,Los Angeles,Canada
+Benjamin,Female,2010,7,4.43,53.7,San Antonio,USA
+James,Male,2012,11,2.53,48.4,San Diego,Australia
+Olivia,Female,2021,3,4.1,48.5,Houston,UK
+Elijah,Female,2020,9,3.22,45.8,Los Angeles,Canada
+Liam,Male,2023,5,3.3,45.8,San Antonio,Australia
+Olivia,Female,2020,12,4.0,45.3,Philadelphia,UK
+Sophia,Male,2019,9,2.76,48.7,New York,USA
+Harper,Female,2012,5,2.82,47.9,Chicago,Australia
+Amelia,Male,2010,7,3.49,51.0,Philadelphia,UK
+Mia,Male,2022,6,4.24,51.6,Phoenix,USA
+Sophia,Male,2022,5,3.66,50.1,Los Angeles,UK
+Benjamin,Female,2022,1,4.14,48.1,Houston,USA
+Evelyn,Male,2012,12,3.92,48.0,Los Angeles,Canada
+Alexander,Female,2010,7,3.81,49.5,San Antonio,UK
+Oliver,Male,2010,12,3.32,53.1,San Antonio,Australia
+Ava,Male,2020,2,4.08,47.6,San Diego,Canada
+Lucas,Female,2018,5,3.27,48.7,Phoenix,Australia
+Elijah,Male,2014,10,4.06,53.9,New York,Canada
+Noah,Female,2019,1,3.92,54.7,Houston,Australia
+James,Male,2012,4,3.39,54.4,New York,Canada
+Olivia,Male,2012,9,4.37,54.4,Los Angeles,USA
+Evelyn,Female,2015,6,2.58,52.9,Los Angeles,USA
+Mia,Female,2021,1,2.64,45.3,San Antonio,UK
+Emma,Male,2022,7,3.29,52.6,Los Angeles,UK
+Elijah,Male,2013,1,3.52,49.2,Chicago,UK
+Mia,Female,2023,12,3.55,48.9,Houston,USA
+Charlotte,Male,2013,11,3.94,53.2,Los Angeles,UK
+Olivia,Female,2020,9,3.67,51.1,Houston,Canada
+Mason,Male,2018,12,3.89,51.9,New York,Australia
+Henry,Male,2020,12,2.85,50.7,New York,USA
+Liam,Male,2012,12,3.62,48.9,New York,UK
+Ava,Female,2018,4,4.05,47.2,San Antonio,USA
+Alexander,Female,2018,5,4.21,53.2,Phoenix,Australia
+Mason,Male,2012,10,3.33,54.3,Houston,USA
+Ava,Male,2010,9,2.72,49.1,Philadelphia,Australia
+Charlotte,Female,2018,5,4.37,46.3,Houston,USA
+Noah,Female,2013,4,2.75,46.5,San Diego,USA
+Ava,Female,2012,7,2.51,54.8,Chicago,USA
+James,Male,2011,3,2.51,48.9,Chicago,Australia
+Benjamin,Male,2011,12,4.21,45.2,Houston,Australia
+Noah,Male,2016,11,4.39,47.1,San Antonio,USA
+Ava,Male,2021,6,4.49,47.0,San Diego,Canada
+Charlotte,Male,2015,6,3.84,46.9,Los Angeles,Canada
+Mason,Female,2023,4,4.19,50.4,San Antonio,Australia
+Ava,Male,2016,6,2.51,49.1,New York,Australia
+Olivia,Female,2017,2,2.75,54.7,Phoenix,Australia
+Harper,Female,2011,11,2.79,49.8,Philadelphia,USA
+Benjamin,Male,2019,12,3.86,49.2,San Antonio,USA
+Noah,Male,2012,5,3.8,49.6,Philadelphia,Australia
+Sophia,Male,2012,2,3.41,50.3,San Antonio,USA
+Mason,Male,2013,3,2.9,54.6,Phoenix,USA
+Amelia,Male,2010,9,4.41,50.2,San Antonio,UK
+Lucas,Female,2011,3,4.32,51.8,Los Angeles,UK
+Sophia,Male,2018,11,2.76,54.8,Houston,Australia
+Sophia,Female,2014,1,3.05,52.4,Los Angeles,USA
+Henry,Female,2019,5,2.79,51.0,Phoenix,Australia
+Benjamin,Female,2012,6,4.49,45.8,Chicago,Australia
+Evelyn,Male,2015,8,3.76,45.2,Houston,USA
+Alexander,Female,2018,11,3.67,47.3,San Antonio,USA
+Emma,Male,2023,1,3.09,53.6,New York,UK
+Benjamin,Male,2021,6,3.91,48.4,San Diego,Australia
+Noah,Female,2016,6,2.53,51.1,Houston,Canada
+Harper,Female,2020,9,3.57,54.3,Houston,Canada
+Ava,Female,2020,12,3.6,45.1,Philadelphia,Australia
+Charlotte,Female,2012,3,3.4,48.3,San Antonio,Canada
+Benjamin,Male,2023,3,3.59,52.1,Phoenix,Australia
+Noah,Male,2014,8,4.21,51.1,Los Angeles,Canada
+Charlotte,Male,2013,4,3.4,54.1,Chicago,Australia
+Lucas,Female,2016,9,2.53,48.9,Los Angeles,UK
+Elijah,Male,2014,2,3.01,47.7,Houston,UK
+Mia,Male,2011,11,3.07,50.0,New York,USA
+Harper,Female,2019,3,4.07,45.8,Houston,Canada
+Benjamin,Male,2020,4,3.97,53.0,San Antonio,Canada
+Emma,Female,2012,9,3.98,47.2,San Diego,USA
+Alexander,Male,2010,6,2.78,47.0,Phoenix,Canada
+James,Male,2015,4,4.48,51.4,San Diego,Canada
+Henry,Female,2019,5,4.12,48.6,Los Angeles,Australia
+Emma,Male,2016,2,3.96,54.7,San Antonio,Australia
+Mia,Male,2013,6,4.21,52.8,Phoenix,Australia
+Lucas,Male,2015,5,4.32,47.3,Phoenix,USA
+Mason,Female,2012,11,3.02,54.9,New York,Canada
+James,Female,2016,12,3.09,54.7,Los Angeles,USA
+Benjamin,Female,2015,9,2.88,51.5,Phoenix,Australia
+Charlotte,Male,2015,2,2.82,51.0,Houston,Canada
+Oliver,Female,2018,3,2.76,52.6,Houston,Canada
+Evelyn,Male,2013,11,3.64,46.4,San Diego,Canada
+Isabella,Female,2013,10,3.08,45.3,Phoenix,Australia
+Amelia,Female,2013,9,4.08,48.0,Chicago,UK
+Olivia,Male,2020,10,2.56,51.9,Philadelphia,Australia
+Sophia,Male,2023,8,3.3,52.4,Chicago,USA
+Liam,Male,2023,12,4.09,45.2,San Diego,Australia
+Harper,Female,2010,7,3.88,50.0,San Antonio,Australia
+Ava,Female,2014,5,3.59,49.1,San Diego,USA
+Charlotte,Female,2013,11,3.41,52.7,Philadelphia,Canada
+Noah,Female,2012,9,4.19,48.3,San Antonio,Australia
+James,Female,2015,1,2.55,47.6,San Diego,UK
+Mia,Female,2015,5,4.01,51.0,Chicago,Australia
+James,Female,2010,9,2.54,54.1,Houston,Canada
+Alexander,Male,2015,4,4.16,48.9,Phoenix,Canada
+Alexander,Male,2018,10,2.78,54.6,San Diego,UK
+Liam,Male,2018,4,2.7,46.5,San Antonio,Canada
+Harper,Female,2015,12,3.23,48.4,San Antonio,USA
+Liam,Male,2021,8,4.13,52.3,Houston,UK
+Sophia,Female,2016,11,2.76,52.2,San Diego,Australia
+Oliver,Male,2014,10,4.12,54.8,San Antonio,UK
+Emma,Male,2012,7,4.14,52.2,Houston,UK
+Mason,Male,2014,2,3.98,51.7,San Diego,Australia
+Henry,Female,2017,4,3.22,53.9,Phoenix,Australia
+Olivia,Male,2015,7,3.79,45.1,Chicago,USA
+Olivia,Female,2022,10,3.29,53.8,San Diego,Australia
+Ava,Male,2017,6,4.37,49.3,Phoenix,USA
+Amelia,Male,2014,7,2.62,50.2,Chicago,UK
+Lucas,Female,2014,9,2.61,52.7,Los Angeles,UK
+Lucas,Male,2013,2,4.06,49.1,San Antonio,Canada
+Alexander,Female,2020,3,2.69,46.7,Los Angeles,UK
+Elijah,Male,2021,1,3.83,52.1,Los Angeles,Australia
+Emma,Female,2021,9,3.69,52.9,San Antonio,USA
+Oliver,Male,2011,1,3.2,53.4,San Diego,USA
+Emma,Male,2014,7,3.27,45.7,Philadelphia,UK
+Emma,Female,2023,10,2.83,45.8,New York,UK
+James,Male,2016,9,2.78,55.0,San Antonio,Canada
+Olivia,Female,2010,8,3.43,54.6,San Diego,USA
+Henry,Female,2011,6,3.08,51.6,New York,Canada
+Isabella,Male,2020,11,2.72,47.4,Chicago,UK
+Benjamin,Female,2019,8,4.48,50.2,Houston,USA
+Ava,Male,2011,11,3.45,45.9,San Diego,Canada
+Sophia,Female,2012,10,4.5,48.3,Houston,Canada
+Mason,Female,2014,12,3.38,45.8,Phoenix,USA
+Elijah,Male,2023,10,2.75,52.5,San Antonio,USA
+Ava,Male,2022,8,3.47,54.8,Philadelphia,USA
+Isabella,Female,2021,2,3.43,47.8,New York,Canada
+Benjamin,Male,2022,4,2.98,54.4,Houston,Canada
+Emma,Male,2019,8,4.35,47.4,Houston,USA
+Mason,Male,2016,10,3.46,49.9,Houston,UK
+Olivia,Male,2021,2,3.69,51.9,Chicago,USA
+Harper,Female,2012,2,4.47,54.5,Phoenix,Canada
+Emma,Male,2023,6,4.24,51.2,Houston,USA
+Alexander,Male,2018,4,2.86,48.9,Los Angeles,UK
+Mia,Female,2019,6,2.5,53.0,Phoenix,UK
+Evelyn,Male,2012,6,4.14,47.3,San Antonio,USA
+Evelyn,Female,2016,3,3.8,48.5,Philadelphia,Canada
+Noah,Female,2020,6,2.64,50.8,Los Angeles,Australia
+Charlotte,Female,2019,9,4.29,51.2,Houston,Canada
+Benjamin,Male,2020,6,3.0,48.3,Chicago,USA
+Alexander,Female,2011,9,4.18,50.4,Los Angeles,UK
+Liam,Female,2020,1,3.27,53.5,San Diego,Canada
+Evelyn,Male,2023,6,3.0,49.7,San Diego,Australia
+Alexander,Male,2019,6,3.33,46.8,Houston,UK
+Sophia,Male,2011,8,4.27,47.8,New York,UK
+Harper,Male,2016,2,3.65,49.1,Phoenix,USA
+Sophia,Female,2018,1,2.99,48.7,Los Angeles,Canada
+Elijah,Female,2018,10,2.89,54.9,Houston,Canada
+Alexander,Male,2018,9,3.97,48.6,New York,Canada
+Benjamin,Female,2016,6,3.13,46.1,Philadelphia,UK
+Noah,Male,2018,12,3.02,46.4,San Diego,USA
+Amelia,Female,2014,9,4.34,48.5,San Antonio,USA
+James,Male,2022,3,2.78,45.2,Houston,Canada
+Mia,Male,2022,7,2.95,50.9,Philadelphia,Canada
+Amelia,Female,2014,5,2.54,49.5,Philadelphia,USA
+Harper,Male,2014,2,3.2,50.6,Houston,UK
+Elijah,Male,2011,7,3.08,45.4,Houston,USA
+Emma,Female,2010,4,2.7,53.5,New York,UK
+Harper,Female,2013,4,4.42,49.6,Phoenix,Australia
+Olivia,Male,2019,3,4.33,52.2,Los Angeles,USA
+Isabella,Male,2022,7,3.25,46.7,Philadelphia,USA
+Emma,Female,2021,10,4.3,45.8,Los Angeles,Australia
+Oliver,Male,2012,9,2.94,45.2,Chicago,UK
+Harper,Female,2011,1,4.43,51.6,Houston,UK
+Henry,Female,2016,2,2.91,47.1,Chicago,Canada
+Henry,Male,2020,1,4.19,53.3,San Diego,UK
+Ava,Female,2015,12,2.85,50.5,Chicago,Australia
+Isabella,Male,2012,5,3.21,47.5,Phoenix,UK
+Emma,Male,2010,3,3.73,50.2,San Diego,Australia
+Charlotte,Female,2014,8,2.61,51.5,Los Angeles,UK
+Emma,Female,2012,11,4.15,54.4,San Antonio,Australia
+Sophia,Male,2020,8,2.7,51.9,Houston,UK
+Lucas,Male,2013,11,3.83,51.6,Houston,UK
+Lucas,Male,2017,4,3.11,54.1,Phoenix,UK
+Elijah,Male,2019,11,3.52,50.7,New York,Canada
+Ava,Male,2022,12,3.76,53.5,San Antonio,UK
+Charlotte,Male,2011,6,2.72,51.1,Los Angeles,Australia
+Henry,Male,2021,3,2.58,47.7,Phoenix,UK
+Ava,Female,2014,7,2.81,54.8,Los Angeles,UK
+Benjamin,Female,2013,5,4.06,45.2,San Antonio,Canada
+Benjamin,Female,2013,10,3.9,46.9,New York,UK
+Benjamin,Female,2010,3,2.64,50.9,Los Angeles,Canada
+Emma,Male,2020,12,4.43,46.3,San Diego,USA
+Benjamin,Male,2021,11,3.87,48.0,Phoenix,Australia
+Evelyn,Male,2018,10,3.5,45.9,Philadelphia,Australia
+Evelyn,Male,2011,3,2.5,52.1,Houston,Australia
+Lucas,Female,2014,3,3.02,46.3,Houston,UK
+Evelyn,Female,2011,3,4.28,53.2,San Diego,UK
+Noah,Male,2015,1,3.55,48.6,San Antonio,Australia
+Lucas,Male,2021,6,4.21,46.8,Los Angeles,UK
+Alexander,Male,2014,5,3.87,46.6,Los Angeles,UK
+Amelia,Female,2019,3,3.5,52.4,San Diego,Canada
+Emma,Female,2015,1,3.67,51.5,Chicago,Canada
+Emma,Female,2013,5,3.47,52.8,San Diego,Canada
+Charlotte,Female,2017,12,3.29,51.5,Chicago,USA
+Lucas,Male,2017,1,4.15,52.0,Chicago,Australia
+Olivia,Male,2016,2,4.18,52.0,Houston,USA
+James,Male,2012,5,4.02,47.2,New York,USA
+Amelia,Male,2020,9,3.73,53.6,Los Angeles,Canada
+Oliver,Female,2022,3,2.64,51.2,Chicago,UK
+Sophia,Female,2017,10,4.42,47.7,Los Angeles,UK
+Oliver,Male,2015,8,3.31,46.9,Phoenix,USA
+Evelyn,Male,2021,8,2.83,53.5,New York,Australia
+Henry,Male,2018,4,3.97,50.4,New York,USA
+Oliver,Male,2020,7,3.56,54.1,Houston,UK
+Noah,Male,2021,2,3.94,53.0,Phoenix,USA
+Mason,Female,2023,4,4.2,54.8,Chicago,USA
+Alexander,Male,2017,4,3.73,54.5,San Antonio,UK
+Olivia,Female,2016,11,4.36,54.5,Philadelphia,USA
+Liam,Male,2015,5,3.71,53.4,Los Angeles,Australia
+Emma,Female,2021,5,2.79,50.6,San Diego,UK
+Evelyn,Female,2019,10,3.57,49.8,Houston,Australia
+Noah,Female,2015,2,3.07,53.3,Los Angeles,USA
+Ava,Male,2017,1,4.42,50.1,San Antonio,USA
+Benjamin,Female,2014,5,4.11,52.4,Houston,Australia
+Lucas,Female,2010,4,4.08,50.9,San Diego,Australia
+James,Female,2012,12,2.98,48.5,Los Angeles,Canada
+Liam,Female,2020,3,3.8,52.2,Philadelphia,USA
+Lucas,Female,2015,1,3.41,50.9,New York,Australia
+Lucas,Female,2023,9,3.03,50.9,San Diego,UK
+Emma,Male,2018,5,3.43,54.0,San Diego,USA
+Evelyn,Male,2011,12,3.63,45.9,San Diego,Canada
+Alexander,Female,2016,3,3.38,46.1,San Antonio,Canada
+Mason,Male,2018,9,3.29,48.8,Chicago,Australia
+Olivia,Male,2022,11,4.42,49.0,Philadelphia,Canada
+Benjamin,Male,2010,12,3.05,47.4,San Diego,Australia
+Ava,Male,2011,2,4.15,52.1,Phoenix,USA
+Evelyn,Female,2013,2,3.78,49.2,Los Angeles,USA
+Sophia,Female,2022,6,4.27,46.6,San Antonio,Australia
+Harper,Female,2021,7,2.84,48.9,Philadelphia,Canada
+Amelia,Male,2017,3,3.05,53.8,Los Angeles,USA
+Ava,Male,2018,4,2.76,46.5,Philadelphia,UK
+Alexander,Female,2016,1,4.18,51.5,San Antonio,Canada
+Lucas,Female,2019,6,2.65,50.6,San Antonio,Australia
+Liam,Male,2023,2,4.09,52.1,New York,USA
+Charlotte,Male,2012,6,3.61,53.0,Houston,Canada
+Harper,Female,2015,11,2.87,50.5,Houston,Australia
+Sophia,Male,2013,6,2.89,52.1,Philadelphia,USA
+Henry,Female,2023,12,3.54,52.8,San Diego,USA
+Noah,Female,2019,5,3.73,52.0,San Antonio,USA
+Amelia,Male,2021,8,2.53,53.9,Philadelphia,USA
+Ava,Female,2018,11,2.62,47.9,Houston,Canada
+Henry,Male,2015,12,3.71,51.7,San Antonio,Canada
+Ava,Male,2023,1,3.11,50.2,Chicago,UK
+Amelia,Female,2016,6,4.23,49.1,San Diego,Australia
+Lucas,Male,2013,2,3.9,49.6,Los Angeles,Australia
+Elijah,Female,2022,3,2.94,54.5,New York,Canada
+Evelyn,Female,2011,3,2.86,50.6,Philadelphia,Canada
+Lucas,Male,2015,12,3.45,51.0,Los Angeles,USA
+Harper,Female,2010,7,4.28,54.8,San Diego,Australia
+Mason,Female,2021,7,3.44,49.5,New York,UK
+Benjamin,Female,2018,12,2.64,50.6,San Antonio,Australia
+Mia,Male,2020,5,3.8,45.1,San Antonio,USA
+Lucas,Female,2016,5,3.33,52.2,Philadelphia,UK
+Emma,Male,2013,5,3.37,49.7,Los Angeles,Australia
+Harper,Male,2022,11,2.74,48.9,New York,Canada
+Emma,Male,2022,7,3.03,50.2,San Diego,Canada
+Henry,Male,2020,10,3.42,48.1,San Diego,UK
+Amelia,Male,2022,5,3.77,54.3,Philadelphia,UK
+Isabella,Male,2012,1,3.75,53.2,Houston,Australia
+Alexander,Female,2022,3,4.48,46.4,Los Angeles,Canada
+Amelia,Male,2014,9,3.64,50.3,Houston,Australia
+Elijah,Female,2010,2,3.41,46.5,Philadelphia,USA
+Benjamin,Female,2016,2,2.77,48.8,Los Angeles,USA
+Olivia,Male,2015,6,2.66,52.0,Houston,USA
+Noah,Male,2016,7,3.91,52.0,Phoenix,Canada
+Benjamin,Female,2014,5,3.7,47.0,New York,USA
+Oliver,Male,2015,9,4.32,54.4,Phoenix,Australia
+Mason,Female,2012,4,2.51,46.8,Phoenix,Australia
+Liam,Male,2018,5,4.17,47.1,Los Angeles,Canada
+Ava,Male,2014,10,3.9,46.6,Philadelphia,USA
+Liam,Female,2021,4,4.04,53.5,Houston,Australia
+Alexander,Female,2022,4,3.24,46.5,Philadelphia,Australia
+Evelyn,Female,2019,4,3.06,49.2,Phoenix,USA
+Noah,Male,2014,9,3.11,50.8,San Antonio,Australia
+Olivia,Male,2013,10,4.09,54.2,San Diego,Australia
+Lucas,Female,2016,10,4.22,46.2,Phoenix,UK
+Charlotte,Female,2012,6,2.8,53.6,Los Angeles,Australia
+Amelia,Male,2012,12,3.74,48.0,Phoenix,Australia
+Oliver,Male,2017,9,4.36,53.2,Phoenix,UK
+Mia,Male,2016,9,2.97,50.7,San Diego,USA
+Alexander,Male,2010,1,2.73,46.1,San Diego,Canada
+Henry,Male,2020,3,2.96,45.3,Chicago,UK
+Mia,Male,2013,8,4.11,48.1,San Diego,USA
+Charlotte,Male,2013,11,4.18,54.7,San Diego,Canada
+Olivia,Female,2012,7,3.57,48.9,New York,USA
+Mason,Male,2023,12,3.55,46.6,Houston,Australia
+Amelia,Male,2015,2,2.62,50.6,Chicago,USA
+Charlotte,Male,2016,6,4.21,48.7,San Antonio,Canada
+Charlotte,Female,2014,3,3.9,48.1,Chicago,UK
+Ava,Male,2017,9,2.83,54.6,San Diego,USA
+Olivia,Male,2012,9,4.3,45.5,Chicago,UK
+Evelyn,Female,2023,7,2.58,52.6,San Diego,Canada
+Mason,Male,2018,7,3.87,51.4,Chicago,Canada
+Mia,Male,2017,1,2.78,46.7,Phoenix,Australia
+Liam,Male,2015,7,2.8,54.1,San Antonio,Canada
+Evelyn,Female,2018,4,3.2,52.9,Los Angeles,UK
+Ava,Male,2017,9,4.35,45.3,Philadelphia,Canada
+Liam,Male,2012,5,3.19,49.8,Los Angeles,Australia
+Amelia,Female,2018,8,2.68,52.0,Chicago,USA
+Liam,Female,2014,6,2.68,45.8,San Diego,Australia
+Mason,Male,2014,2,3.36,53.0,San Antonio,USA
+Ava,Male,2020,7,2.92,49.4,Los Angeles,Australia
+Liam,Male,2014,6,2.91,45.9,Chicago,Australia
